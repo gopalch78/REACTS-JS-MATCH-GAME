@@ -1,0 +1,14 @@
+.app-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  list-style-type: none;
+  width: 45%;
+  max-width: 128px;
+  align-content: center;
+}
+.app-image {
+  height: 200px;
+  width: 200px;
+  padding: 15px;
+}
